@@ -14,7 +14,7 @@ sherlock-clp | sherlock
 ## Installation
 
 ### Runtime Dependencies
-- 'cliphist'
+- `cliphist`
 
 ### <ins>From Source</ins>
 
