@@ -8,7 +8,7 @@ This is a lightweight program to enable clipboard history support for Sherlock.
 
 
 ```bash
-sherlock-clp | sherlock
+sherlock-clp | sherlock | cliphist-decode | wl-copy
 ```
 
 ## Installation
