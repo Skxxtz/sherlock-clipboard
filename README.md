@@ -16,6 +16,14 @@ sherlock-clp | sherlock | cliphist-decode | wl-copy
 ### Runtime Dependencies
 - `cliphist`
 
+### <ins>Arch Linux</ins>
+
+If you're using Arch Linux, you can install the sherlock-clp package with the following command:
+
+```bash
+yay -S sherlock-clp-git
+```
+
 ### <ins>From Source</ins>
 
 To build sherlock-clipboard from source, follow these steps.<br>
